@@ -1,0 +1,15 @@
+title: Daniel Romero Mancia
+email: dromero2432@hotmail.ca
+description: >
+  Portfolio website for Daniel Romero Mancia.
+github_username: dan-romero-mancia
+
+github: [metadata]
+encoding: UTF-8
+kramdown:
+ input: GFM
+ hard_wrap: false
+future: true
+jailed: false
+theme: minima
+gfm_quirks: paragraph_end
